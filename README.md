@@ -1,4 +1,4 @@
-# Async-Stres-Test
+# Async Stress Test
 
 This script is designed to send multiple asynchronous POST requests to a specified URL using the aiohttp library in Python. It measures the execution time of each request and provides a summary of the total time taken to run all the requests.
 
